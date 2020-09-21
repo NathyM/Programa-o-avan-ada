@@ -1,0 +1,22 @@
+DVD{Titulo='Velozes e furiosos', Elenco='Sei lá', Diretor='Rubinho', Ano='21'}
+CD{Titulo='Rainhas do arrocha', Artista='Marilia e Naiara', Gravadora='Universal', Ano='20'}
+DVD{Titulo='Velozes e furiosos', Elenco='Sei lá', Diretor='Rubinho', Ano='21'}
+CD{Titulo:'Rainhas do arrocha
+, Artista:'Marilia e Naiara
+, Gravadora: 'Universal
+, Ano:'20
+}
+DVD{Titulo='Velozes e furiosos', Elenco='Sei lá', Diretor='Rubinho', Ano='21'}
+CD{Titulo:'Rainhas do arrocha
+, Artista:'Marilia e Naiara
+, Gravadora: 'Universal
+, Ano:'20
+}
+DVD{Titulo='Velozes e furiosos', Elenco='Sei lá', Diretor='Rubinho', Ano='21'}
+CD{Titulo:'Rainhas do arrocha, Artista:'Marilia e Naiara, Gravadora: 'Universal, Ano:'20
+}
+DVD{Titulo='Velozes e furiosos', Elenco='Sei lá', Diretor='Rubinho', Ano='21'}
+CD{Titulo:'Rainhas do arrocha, Artista:'Marilia e Naiara, Gravadora: 'Universal, Ano:'20}
+DVD{Titulo:'Velozes e furiosos, Elenco: 'Sei lá, Diretor:'Rubinho, Ano='21
+}
+CD{Titulo:'Rainhas do arrocha, Artista:'Marilia e Naiara, Gravadora: 'Universal, Ano:'20}
